@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444390003618",
+    "firebase_url": "https://quiz-app-using-mvvm.firebaseio.com",
+    "project_id": "quiz-app-using-mvvm",
+    "storage_bucket": "quiz-app-using-mvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444390003618:android:c6d5dd2dec0e727c09d8fb",
+        "android_client_info": {
+          "package_name": "com.rezwan_cs.quizappusingmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444390003618-tiikdorcsofov7dj4d501mfjrb8rpcap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnffLN-h82_BGctt8e115yNwE6W-XFioM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444390003618-tiikdorcsofov7dj4d501mfjrb8rpcap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
